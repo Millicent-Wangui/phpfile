@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ea6d6f8-5e6e-4d15-8a11-a34d36f0593d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1Y71rgV1fgCrorEp1EBfczcawAs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ea6d6f8-5e6e-4d15-8a11-a34d36f0593d" name="Default Changelist" comment="" />
+      <created>1582279018434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582279018434</updated>
+      <workItem from="1582279021543" duration="2994000" />
+      <workItem from="1582536680973" duration="4306000" />
+      <workItem from="1582541706512" duration="171000" />
+      <workItem from="1582870949894" duration="52000" />
+      <workItem from="1582880928858" duration="797000" />
+      <workItem from="1582882321129" duration="4323000" />
+      <workItem from="1583128523262" duration="24000" />
+      <workItem from="1583141761905" duration="1359000" />
+      <workItem from="1583143465172" duration="597000" />
+      <workItem from="1583144420209" duration="2125000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="347" y="122" width="426" height="480" key="FileChooserDialogImpl" timestamp="1583128544915">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="347" y="122" width="426" height="480" key="FileChooserDialogImpl/0.0.1024.741@0.0.1024.741" timestamp="1583128544915" />
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582281286478" />
+    <state x="388" y="293" width="351" height="144" key="NewPhpFileDialog" timestamp="1582882768394">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="388" y="293" width="351" height="144" key="NewPhpFileDialog/0.0.1024.741@0.0.1024.741" timestamp="1582882768394" />
+    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1582279089275" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1582279058216">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582279058216" />
+    <state x="205" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1583144420973">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="205" y="198" key="com.intellij.ide.util.TipDialog/0.0.1024.741@0.0.1024.741" timestamp="1583144420973" />
+    <state x="175" y="62" width="672" height="678" key="search.everywhere.popup" timestamp="1582883917021">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="175" y="62" width="672" height="678" key="search.everywhere.popup/0.0.1024.741@0.0.1024.741" timestamp="1582883917021" />
+  </component>
+</project>
